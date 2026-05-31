@@ -1,0 +1,345 @@
+State,Week,Forecasted_Sales
+Alabama,Week 1,207190290.0
+Alabama,Week 2,207638990.0
+Alabama,Week 3,208320450.0
+Alabama,Week 4,208870370.0
+Alabama,Week 5,209335650.0
+Alabama,Week 6,209734050.0
+Alabama,Week 7,210022750.0
+Alabama,Week 8,210108500.0
+Arizona,Week 1,228777890.0
+Arizona,Week 2,229999360.0
+Arizona,Week 3,231032100.0
+Arizona,Week 4,231940260.0
+Arizona,Week 5,232750290.0
+Arizona,Week 6,233449390.0
+Arizona,Week 7,234048290.0
+Arizona,Week 8,234546720.0
+Arkansas,Week 1,113300700.0
+Arkansas,Week 2,113913800.0
+Arkansas,Week 3,114551420.0
+Arkansas,Week 4,115183384.0
+Arkansas,Week 5,115813880.0
+Arkansas,Week 6,116444830.0
+Arkansas,Week 7,117065850.0
+Arkansas,Week 8,117688110.0
+California,Week 1,847247170.0
+California,Week 2,848332700.0
+California,Week 3,849118500.0
+California,Week 4,849364860.0
+California,Week 5,849168200.0
+California,Week 6,848621440.0
+California,Week 7,847889660.0
+California,Week 8,846883700.0
+Colorado,Week 1,174982420.0
+Colorado,Week 2,175686780.0
+Colorado,Week 3,176317010.0
+Colorado,Week 4,176799020.0
+Colorado,Week 5,177183680.0
+Colorado,Week 6,177475380.0
+Colorado,Week 7,177718460.0
+Colorado,Week 8,177891200.0
+Connecticut,Week 1,87978104.0
+Connecticut,Week 2,88196180.0
+Connecticut,Week 3,88329976.0
+Connecticut,Week 4,88446240.0
+Connecticut,Week 5,88544020.0
+Connecticut,Week 6,88631920.0
+Connecticut,Week 7,88710800.0
+Connecticut,Week 8,88777660.0
+Florida,Week 1,759565200.0
+Florida,Week 2,762046000.0
+Florida,Week 3,764572350.0
+Florida,Week 4,767175940.0
+Florida,Week 5,769851970.0
+Florida,Week 6,772550700.0
+Florida,Week 7,775257900.0
+Florida,Week 8,777982400.0
+Georgia,Week 1,390563000.0
+Georgia,Week 2,392387520.0
+Georgia,Week 3,394000320.0
+Georgia,Week 4,395446700.0
+Georgia,Week 5,396729540.0
+Georgia,Week 6,397908400.0
+Georgia,Week 7,399014530.0
+Georgia,Week 8,399954530.0
+Illinois,Week 1,322450370.0
+Illinois,Week 2,324301380.0
+Illinois,Week 3,326064220.0
+Illinois,Week 4,327835230.0
+Illinois,Week 5,329642000.0
+Illinois,Week 6,331485440.0
+Illinois,Week 7,333326300.0
+Illinois,Week 8,335234000.0
+Indiana,Week 1,221671920.0
+Indiana,Week 2,222559220.0
+Indiana,Week 3,223266020.0
+Indiana,Week 4,223714220.0
+Indiana,Week 5,224019580.0
+Indiana,Week 6,224277340.0
+Indiana,Week 7,224576200.0
+Indiana,Week 8,224903460.0
+Iowa,Week 1,119314744.0
+Iowa,Week 2,119990940.0
+Iowa,Week 3,120697736.0
+Iowa,Week 4,121386640.0
+Iowa,Week 5,122073700.0
+Iowa,Week 6,122752500.0
+Iowa,Week 7,123430050.0
+Iowa,Week 8,124081100.0
+Kansas,Week 1,91229480.0
+Kansas,Week 2,91640620.0
+Kansas,Week 3,91968950.0
+Kansas,Week 4,92229440.0
+Kansas,Week 5,92447970.0
+Kansas,Week 6,92626776.0
+Kansas,Week 7,92773950.0
+Kansas,Week 8,92908344.0
+Kentucky,Week 1,173975000.0
+Kentucky,Week 2,174495380.0
+Kentucky,Week 3,175049300.0
+Kentucky,Week 4,175581890.0
+Kentucky,Week 5,176086340.0
+Kentucky,Week 6,176572510.0
+Kentucky,Week 7,177050350.0
+Kentucky,Week 8,177526030.0
+Louisiana,Week 1,179098370.0
+Louisiana,Week 2,179424480.0
+Louisiana,Week 3,179884030.0
+Louisiana,Week 4,180284240.0
+Louisiana,Week 5,180627170.0
+Louisiana,Week 6,180905330.0
+Louisiana,Week 7,181126700.0
+Louisiana,Week 8,181262670.0
+Maine,Week 1,47423156.0
+Maine,Week 2,47573096.0
+Maine,Week 3,47720844.0
+Maine,Week 4,47859676.0
+Maine,Week 5,47994996.0
+Maine,Week 6,48132264.0
+Maine,Week 7,48271644.0
+Maine,Week 8,48400024.0
+Maryland,Week 1,159920240.0
+Maryland,Week 2,159882340.0
+Maryland,Week 3,159764340.0
+Maryland,Week 4,159572240.0
+Maryland,Week 5,159332370.0
+Maryland,Week 6,159068300.0
+Maryland,Week 7,158760600.0
+Maryland,Week 8,158413170.0
+Massachusetts,Week 1,180818510.0
+Massachusetts,Week 2,180880670.0
+Massachusetts,Week 3,180830510.0
+Massachusetts,Week 4,180679980.0
+Massachusetts,Week 5,180465100.0
+Massachusetts,Week 6,180177000.0
+Massachusetts,Week 7,179825070.0
+Massachusetts,Week 8,179424820.0
+Michigan,Week 1,289108220.0
+Michigan,Week 2,289239100.0
+Michigan,Week 3,289430980.0
+Michigan,Week 4,289593150.0
+Michigan,Week 5,289721400.0
+Michigan,Week 6,289830180.0
+Michigan,Week 7,289920100.0
+Michigan,Week 8,289992450.0
+Minnesota,Week 1,157976860.0
+Minnesota,Week 2,158148030.0
+Minnesota,Week 3,158530000.0
+Minnesota,Week 4,158851520.0
+Minnesota,Week 5,159124820.0
+Minnesota,Week 6,159338900.0
+Minnesota,Week 7,159520080.0
+Minnesota,Week 8,159627820.0
+Mississippi,Week 1,124554824.0
+Mississippi,Week 2,124838264.0
+Mississippi,Week 3,125023230.0
+Mississippi,Week 4,125085670.0
+Mississippi,Week 5,125075230.0
+Mississippi,Week 6,124943160.0
+Mississippi,Week 7,124726920.0
+Mississippi,Week 8,124460690.0
+Missouri,Week 1,200209060.0
+Missouri,Week 2,201177840.0
+Missouri,Week 3,202091150.0
+Missouri,Week 4,202956500.0
+Missouri,Week 5,203792770.0
+Missouri,Week 6,204604240.0
+Missouri,Week 7,205393820.0
+Missouri,Week 8,206164540.0
+Nebraska,Week 1,62334330.0
+Nebraska,Week 2,62611356.0
+Nebraska,Week 3,62849244.0
+Nebraska,Week 4,63009612.0
+Nebraska,Week 5,63124730.0
+Nebraska,Week 6,63163612.0
+Nebraska,Week 7,63151436.0
+Nebraska,Week 8,63063868.0
+Nevada,Week 1,103413910.0
+Nevada,Week 2,103964330.0
+Nevada,Week 3,104469440.0
+Nevada,Week 4,104891176.0
+Nevada,Week 5,105270540.0
+Nevada,Week 6,105592910.0
+Nevada,Week 7,105823620.0
+Nevada,Week 8,105963340.0
+New Hampshire,Week 1,55825108.0
+New Hampshire,Week 2,56085070.0
+New Hampshire,Week 3,56264444.0
+New Hampshire,Week 4,56420896.0
+New Hampshire,Week 5,56559310.0
+New Hampshire,Week 6,56681164.0
+New Hampshire,Week 7,56791492.0
+New Hampshire,Week 8,56886524.0
+New Mexico,Week 1,75246680.0
+New Mexico,Week 2,75771050.0
+New Mexico,Week 3,76304910.0
+New Mexico,Week 4,76812190.0
+New Mexico,Week 5,77304776.0
+New Mexico,Week 6,77787040.0
+New Mexico,Week 7,78263770.0
+New Mexico,Week 8,78711550.0
+New York,Week 1,439991400.0
+New York,Week 2,442230750.0
+New York,Week 3,444322370.0
+New York,Week 4,446395070.0
+New York,Week 5,448433470.0
+New York,Week 6,450463330.0
+New York,Week 7,452528300.0
+New York,Week 8,454537950.0
+North Carolina,Week 1,366081060.0
+North Carolina,Week 2,367842020.0
+North Carolina,Week 3,369349100.0
+North Carolina,Week 4,370884480.0
+North Carolina,Week 5,372278240.0
+North Carolina,Week 6,373536770.0
+North Carolina,Week 7,374718750.0
+North Carolina,Week 8,375698370.0
+Ohio,Week 1,376754400.0
+Ohio,Week 2,378095300.0
+Ohio,Week 3,379417280.0
+Ohio,Week 4,380638180.0
+Ohio,Week 5,381891780.0
+Ohio,Week 6,383156900.0
+Ohio,Week 7,384336350.0
+Ohio,Week 8,385362720.0
+Oklahoma,Week 1,146014110.0
+Oklahoma,Week 2,146562320.0
+Oklahoma,Week 3,147063420.0
+Oklahoma,Week 4,147494770.0
+Oklahoma,Week 5,147882240.0
+Oklahoma,Week 6,148243180.0
+Oklahoma,Week 7,148583620.0
+Oklahoma,Week 8,148908370.0
+Oregon,Week 1,116502904.0
+Oregon,Week 2,117055170.0
+Oregon,Week 3,117515030.0
+Oregon,Week 4,117839890.0
+Oregon,Week 5,118050780.0
+Oregon,Week 6,118145020.0
+Oregon,Week 7,118150880.0
+Oregon,Week 8,118085240.0
+Pennsylvania,Week 1,360679780.0
+Pennsylvania,Week 2,362081000.0
+Pennsylvania,Week 3,363126080.0
+Pennsylvania,Week 4,363921250.0
+Pennsylvania,Week 5,364537540.0
+Pennsylvania,Week 6,364967420.0
+Pennsylvania,Week 7,365194340.0
+Pennsylvania,Week 8,365285060.0
+Rhode Island,Week 1,26765882.0
+Rhode Island,Week 2,26841612.0
+Rhode Island,Week 3,26929184.0
+Rhode Island,Week 4,27008994.0
+Rhode Island,Week 5,27082272.0
+Rhode Island,Week 6,27144968.0
+Rhode Island,Week 7,27199848.0
+Rhode Island,Week 8,27245372.0
+South Carolina,Week 1,198971790.0
+South Carolina,Week 2,199347680.0
+South Carolina,Week 3,199848200.0
+South Carolina,Week 4,200228960.0
+South Carolina,Week 5,200536940.0
+South Carolina,Week 6,200777940.0
+South Carolina,Week 7,200979840.0
+South Carolina,Week 8,201106450.0
+South Dakota,Week 1,29291008.0
+South Dakota,Week 2,29472402.0
+South Dakota,Week 3,29602356.0
+South Dakota,Week 4,29716098.0
+South Dakota,Week 5,29814978.0
+South Dakota,Week 6,29903508.0
+South Dakota,Week 7,29982470.0
+South Dakota,Week 8,30053456.0
+Tennessee,Week 1,263654370.0
+Tennessee,Week 2,264705630.0
+Tennessee,Week 3,265505060.0
+Tennessee,Week 4,266174400.0
+Tennessee,Week 5,266785140.0
+Tennessee,Week 6,267265520.0
+Tennessee,Week 7,267649090.0
+Tennessee,Week 8,267902910.0
+Texas,Week 1,917522800.0
+Texas,Week 2,920896700.0
+Texas,Week 3,924442940.0
+Texas,Week 4,927757250.0
+Texas,Week 5,930827970.0
+Texas,Week 6,933677000.0
+Texas,Week 7,936317060.0
+Texas,Week 8,938551300.0
+Utah,Week 1,86025180.0
+Utah,Week 2,86551070.0
+Utah,Week 3,87044150.0
+Utah,Week 4,87511080.0
+Utah,Week 5,87965090.0
+Utah,Week 6,88415460.0
+Utah,Week 7,88868344.0
+Utah,Week 8,89301370.0
+Vermont,Week 1,18123012.0
+Vermont,Week 2,18133772.0
+Vermont,Week 3,18144668.0
+Vermont,Week 4,18151412.0
+Vermont,Week 5,18156202.0
+Vermont,Week 6,18157792.0
+Vermont,Week 7,18157380.0
+Vermont,Week 8,18155768.0
+Virginia,Week 1,298586780.0
+Virginia,Week 2,300022700.0
+Virginia,Week 3,301380480.0
+Virginia,Week 4,302704100.0
+Virginia,Week 5,303995600.0
+Virginia,Week 6,305239600.0
+Virginia,Week 7,306448580.0
+Virginia,Week 8,307622820.0
+Washington,Week 1,191354180.0
+Washington,Week 2,192004140.0
+Washington,Week 3,192762990.0
+Washington,Week 4,193498910.0
+Washington,Week 5,194213200.0
+Washington,Week 6,194918060.0
+Washington,Week 7,195609520.0
+Washington,Week 8,196276320.0
+West Virginia,Week 1,75643650.0
+West Virginia,Week 2,75960184.0
+West Virginia,Week 3,76258190.0
+West Virginia,Week 4,76544000.0
+West Virginia,Week 5,76824320.0
+West Virginia,Week 6,77104190.0
+West Virginia,Week 7,77385600.0
+West Virginia,Week 8,77671190.0
+Wisconsin,Week 1,160286990.0
+Wisconsin,Week 2,160717460.0
+Wisconsin,Week 3,161273090.0
+Wisconsin,Week 4,161809170.0
+Wisconsin,Week 5,162326020.0
+Wisconsin,Week 6,162823570.0
+Wisconsin,Week 7,163294640.0
+Wisconsin,Week 8,163741150.0
+Wyoming,Week 1,22105936.0
+Wyoming,Week 2,22223060.0
+Wyoming,Week 3,22339962.0
+Wyoming,Week 4,22444164.0
+Wyoming,Week 5,22537318.0
+Wyoming,Week 6,22615774.0
+Wyoming,Week 7,22680000.0
+Wyoming,Week 8,22725202.0
