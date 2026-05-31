@@ -1,7 +1,14 @@
 # Sales Forecasting System
 
-An end-to-end machine learning project that forecasts future sales using historical data and presents insights through an interactive Streamlit dashboard. The system combines LSTM-based forecasting, FastAPI integration, and Plotly visualizations for state-level sales analysis and 8-week sales predictions.
+An end-to-end machine learning project that forecasts future sales using historical data and presents insights through an interactive Streamlit dashboard. The system evaluates multiple forecasting models, compares their performance, selects the best-performing approach, and provides state-level sales analysis with 8-week sales predictions.
 
+##Models Evaluated
+
+- SARIMA
+- Prophet
+- XGBoost
+- LSTM
+  
 ## Features
 
 - Interactive Streamlit dashboard
@@ -20,6 +27,9 @@ An end-to-end machine learning project that forecasts future sales using histori
 - Plotly
 - FastAPI
 - LSTM
+- SARIMA
+- Prophet
+- XGBoost
 
 ## Project Structure
 
@@ -38,7 +48,10 @@ Sales_Forecasting/
 
 ## Run Locally
 
-bash pip install -r requirements.txt streamlit run app.py 
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
 Open:
 
