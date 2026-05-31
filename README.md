@@ -36,12 +36,12 @@ An end-to-end machine learning project that forecasts future sales using histori
 ```text
 Sales_Forecasting/ 
 ├── app.py 
-├── api/ 
+├── api/
+├── assets/ 
 ├── data/ 
 ├── models/ 
 ├── notebooks/ 
 ├── src/ 
-├── screenshots/ 
 ├── requirements.txt 
 └── README.md 
 ```
