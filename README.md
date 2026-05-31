@@ -46,6 +46,16 @@ Open:
 http://localhost:8501 
 ```
 
+## Dashboard Preview
+
+### Dashboard Overview
+
+![Dashboard](assets/dashboard.png)
+
+### Forecast Table
+
+![Forecast Table](assets/forecast-table.png)
+
 ## Dashboard
 
 The dashboard provides:
@@ -55,3 +65,7 @@ The dashboard provides:
 - 8-week forecast visualization
 - KPI metrics dashboard
 - Interactive data exploration
+
+## Live Demo
+
+[Open Dashboard](https://sales-forecasting-system-mksachdev.streamlit.app)
