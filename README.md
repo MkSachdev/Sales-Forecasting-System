@@ -1,4 +1,4 @@
-# Sales-Forecasting-System
+# Sales Forecasting System
 
 An end-to-end machine learning project that forecasts future sales using historical data and presents insights through an interactive Streamlit dashboard. The system combines LSTM-based forecasting, FastAPI integration, and Plotly visualizations for state-level sales analysis and 8-week sales predictions.
 
