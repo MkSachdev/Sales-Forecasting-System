@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that forecasts future sales using historical data and presents insights through an interactive Streamlit dashboard. The system evaluates multiple forecasting models, compares their performance, selects the best-performing approach, and provides state-level sales analysis with 8-week sales predictions.
 
-##Models Evaluated
+## Models Evaluated
 
 - SARIMA
 - Prophet
